@@ -1,0 +1,17 @@
+{
+    "greeting": "Hello",
+    "welcome": "Welcome to my app",
+    "language": "Language",
+    "spanish": "Spanish",
+    "english": "English",
+    "more": "More information",
+    "contacts": "Contacts",
+    "about": "About",
+    "list": "Section List",
+    "news": "News And Updates",
+    "details": "Details",
+    "detailsItems": "Press for more details...",
+    "recalculate": "RECALCULATE ROUTE",
+    "howToGet": "HOW TO GET",
+    "newsTitle": "news"
+}

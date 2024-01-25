@@ -1,0 +1,17 @@
+{
+    "greeting": "Hola",
+    "welcome": "Bienvenido a mi aplicación",
+    "language": "Idioma",
+    "spanish": "Español",
+    "english": "Inglés",
+    "more": "Más Información",
+    "contacts": "Contactos",
+    "about": "Acerca de",
+    "list": "Lista de Apartados",
+    "news": "Noticias y Novedades",
+    "details": "Detalles",
+    "detailsItems": "Presiona para más detalles...",
+    "recalculate": "RECALCULAR RUTA",
+    "howToGet": "CÓMO LLEGAR",
+    "newsTitle": "Noticias"
+}

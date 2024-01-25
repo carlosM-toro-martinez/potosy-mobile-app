@@ -1,0 +1,87 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "attributes": {
+        "title": "Serenata a Potosí",
+        "description": "Cada 10 de noviembre se recuerda el aniversario cívico del departamento de Potosí en homenaje a la gesta libertaria del 1810.",
+        "price": 0,
+        "createdAt": "2022-08-23T01:45:02.715Z",
+        "updatedAt": "2022-09-29T06:17:40.759Z",
+        "publishedAt": "2022-08-23T01:45:05.318Z",
+        "event_type": "Museos",
+        "place": "Campo Ferial de Cantumarca",
+        "attributes": {
+          "1": "A partir de 18:00 hrs",
+          "2": "Fecha: 9/11/2022",
+          "3": "Artistas: Antologia, Kalamarka, Savia Andina y mucho mas",
+        },
+        "image": {
+          "data": {
+            "id": 31,
+            "attributes": {
+              "name": "serenata.jpg",
+              "alternativeText": "serenata.jpg",
+              "caption": "serenata.jpg",
+              "width": 500,
+              "height": 600,
+              "formats": {
+                "small": {
+                  "ext": ".jpg",
+                  "url": "https://res.cloudinary.com/potosi/image/upload/v1667959256/small_serenata_2ee2d089c5.jpg",
+                  "hash": "small_serenata_2ee2d089c5",
+                  "mime": "image/jpeg",
+                  "name": "small_serenata.jpg",
+                  "path": null,
+                  "size": 60.93,
+                  "width": 417,
+                  "height": 500,
+                  "provider_metadata": {
+                    "public_id": "small_serenata_2ee2d089c5",
+                    "resource_type": "image"
+                  }
+                },
+                "thumbnail": {
+                  "ext": ".jpg",
+                  "url": "https://res.cloudinary.com/potosi/image/upload/v1667959256/thumbnail_serenata_2ee2d089c5.jpg",
+                  "hash": "thumbnail_serenata_2ee2d089c5",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_serenata.jpg",
+                  "path": null,
+                  "size": 8.62,
+                  "width": 130,
+                  "height": 156,
+                  "provider_metadata": {
+                    "public_id": "thumbnail_serenata_2ee2d089c5",
+                    "resource_type": "image"
+                  }
+                }
+              },
+              "hash": "serenata_2ee2d089c5",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 80.91,
+              "url": "https://res.cloudinary.com/potosi/image/upload/v1667959255/serenata_2ee2d089c5.jpg",
+              "previewUrl": null,
+              "provider": "cloudinary",
+              "provider_metadata": {
+                "public_id": "serenata_2ee2d089c5",
+                "resource_type": "image"
+              },
+              "createdAt": "2022-11-09T02:00:57.166Z",
+              "updatedAt": "2022-11-09T02:00:57.166Z"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 2
+    }
+  }
+}

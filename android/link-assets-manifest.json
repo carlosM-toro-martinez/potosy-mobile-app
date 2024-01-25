@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/From Cartoon Blocks.ttf",
+      "sha1": "8764463b67e3c534e20af200b593fa1284b310b7"
+    },
+    {
+      "path": "src/assets/fonts/Herculanum.ttf",
+      "sha1": "9c40ba9335cdfbfb62236fbd6aeaeb25b36904b8"
+    },
+    {
+      "path": "src/assets/fonts/Impact.ttf",
+      "sha1": "dea9d702c6d33a1d66b132f4c13541e6f97b7367"
+    },
+    {
+      "path": "src/assets/fonts/NotoSerifDisplay-Italic-VariableFont_wdth,wght.ttf",
+      "sha1": "10b12fbcbd0979812daab295deaa53fca4e2b01d"
+    },
+    {
+      "path": "src/assets/fonts/NotoSerifDisplay-VariableFont_wdth,wght.ttf",
+      "sha1": "579aa0e06569368270a26d2ece86ed7a7f19335f"
+    },
+    {
+      "path": "src/assets/fonts/NotoSerifDisplay_ExtraCondensed-BlackItalic.ttf",
+      "sha1": "af0997fb0b59a9c58622e0cc63dabe118535534c"
+    }
+  ]
+}
